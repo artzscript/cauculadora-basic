@@ -1,6 +1,3 @@
-#eu estou comecando progamacao, e essa é a minha primeira script, bem simples porem espero q goste, ano 2019.
-#ass: ArTz script
-
 
 nome = input(' vamos lá, qual o seu nome? ') 
 print('\n Olá {}!! está com problemas em resolver somas dificeis ou até mesmo simples? vou te ajudar nessa!'.format(nome, ))
